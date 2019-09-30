@@ -1,1 +1,1 @@
-# REST-API-Django
+# WEB-APPS WITH DJANGO
